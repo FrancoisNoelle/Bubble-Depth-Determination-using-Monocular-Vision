@@ -1,5 +1,5 @@
 # Bubble-Depth-Determination-using-Monocular-Vision
-Intructions For Bubble Depth Application:
+Intructions For Bubble Depth Application: Please insure that the curve fitting toolbox is installed (Matlab 2018)
 
 1. Copy images of bubbles as well as a image of the calibration rod into the application folder, which you should set as your workspace.
 2. Make sure the calibration rod is named "pole" in the folder.
@@ -10,4 +10,4 @@ Intructions For Bubble Depth Application:
 5. The final image name then needs to be assigned in the section "Analyse Bubbles", which is the name of the image in which you want to determine the bubble depth. Any of the bubble images in the image folder 
    can be used. 
 6. Once the chosen image names are assined to the variables the code can be run. 
-7. Output "Depth" displays the depth in cm of the various analysed bubbles in the image. "NrBubs" displays the number of bubbles that were analysed. 
+7. Output "Depth" displays the depth in cm of the various analysed bubbles in the image. "NrBubs" displays the number of bubbles that were analysed.
